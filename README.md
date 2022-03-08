@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Simon, a 4th year engineer student and more recently, researcher student 👨‍💻 I'll be gratuaded in 2023 🚀</div>  
   
 
